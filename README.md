@@ -1,5 +1,5 @@
 # Mapping globally public charging service satisfaction trajectories of electric vehicle users 
-This repository contains the Python code and sample social media and bibliometric text data for the manuscript titled "**_Mapping globally public charging service satisfaction trajectories of electric vehicle users _**".
+This repository contains the Python code and sample social media and bibliometric text data for the manuscript titled "**_Mapping globally public charging service satisfaction trajectories of electric vehicle users_**".
 
 
 ---
