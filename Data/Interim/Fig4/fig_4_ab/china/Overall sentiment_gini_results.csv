@@ -1,0 +1,32 @@
+﻿GID_1,GID_0,COUNTRY,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,ISO_1,region,gini
+CHN.1_1,CHN,China,Anhui,?nhu?,??|??,Sh?ng,Province,NA,CN.AH,CN-AH,CN.AH,0.990180315069072
+CHN.2_1,CHN,China,Beijing,B?ij?ng,??|??,Zhíxiáshì,Municipality,NA,CN.BJ,CN-BJ,CN.BJ,0.943781956972763
+CHN.3_1,CHN,China,Chongqing,Chóngqìng,??|??,Zhíxiáshì,Municipality,NA,CN.CQ,CN-CQ,CN.CQ,0.980156972584135
+CHN.4_1,CHN,China,Fujian,Fújiàn,??,Sh?ng,Province,NA,CN.FJ,CN-FJ,CN.FJ,0.977956125704925
+CHN.5_1,CHN,China,Gansu,G?nsù,??|??,Sh?ng,Province,NA,CN.GS,CN-GS,CN.GS,0.991954198135203
+CHN.6_1,CHN,China,Guangdong,Gu?ngd?ng,??|??,Sh?ng,Province,NA,CN.GD,CN-GD,CN.GD,0.951673955213236
+CHN.7_1,CHN,China,Guangxi,Gu?ngx? Zhuàngzú,???????|???????,Zìzhìqu,Autonomous Region,NA,CN.GX,NA,CN.GX,0.984532104997111
+CHN.8_1,CHN,China,Guizhou,Gùizh?u,??|??,Sh?ng,Province,NA,CN.GZ,CN-GZ,CN.GZ,0.988270131806236
+CHN.9_1,CHN,China,Hainan,H?inán,??,Sh?ng,Province,NA,CN.HA,CN-HI,CN.HA,0.974138191410603
+CHN.10_1,CHN,China,Hebei,Héb?i,??,Sh?ng,Province,NA,CN.HB,CN-HE,CN.HB,0.989956009360502
+CHN.11_1,CHN,China,Heilongjiang,H?ilóngji?ng,????|????,Sh?ng,Province,NA,CN.HL,CN-HL,CN.HL,0.993957039206586
+CHN.12_1,CHN,China,Henan,Hénán,??,Sh?ng,Province,NA,CN.HE,CN-HA,CN.HE,0.985089208987209
+CHN.13_1,CHN,China,Hubei,Húb?i,??,Sh?ng,Province,NA,CN.HU,CN-HB,CN.HU,0.985466170113934
+CHN.14_1,CHN,China,Hunan,Húnán,??,Sh?ng,Province,NA,CN.HN,CN-HN,CN.HN,0.989411882423108
+CHN.15_1,CHN,China,Jiangsu,Ji?ngs?,??|??,Sh?ng,Province,NA,CN.JS,CN-JS,CN.JS,0.98081831382194
+CHN.16_1,CHN,China,Jiangxi,Ji?ngx?,??,Sh?ng,Province,NA,CN.JX,CN-JX,CN.JX,0.990559416244569
+CHN.17_1,CHN,China,Jilin,Jílín,??,Sh?ng,Province,NA,CN.JL,CN-JL,CN.JL,0.990084762781696
+CHN.18_1,CHN,China,Liaoning,Liáoníng,??|??,Sh?ng,Province,NA,CN.LN,CN-LN,CN.LN,0.985379499786503
+CHN.19_1,CHN,China,Nei Mongol,Inner Mongol|Nèim?ngg?,??????|??????,Zìzhìqu,Autonomous Region,NA,CN.NM,CN-NM,CN.NM,0.992545872542991
+CHN.20_1,CHN,China,Ningxia Hui,Níngxià Húizú,???????|???????,Zìzhìqu,Autonomous Region,NA,CN.NX,NA,CN.NX,0.989522857452506
+CHN.21_1,CHN,China,Qinghai,Q?ngh?i,??,Sh?ng,Province,NA,CN.QH,CN-QH,CN.QH,0.993196642398834
+CHN.22_1,CHN,China,Shaanxi,Sh?nx?,??|??,Sh?ng,Province,NA,CN.SA,CN-SN,CN.SA,0.985104450258878
+CHN.23_1,CHN,China,Shandong,Sh?nd?ng,??|??,Sh?ng,Province,NA,CN.SD,CN-SD,CN.SD,0.984347615712042
+CHN.24_1,CHN,China,Shanghai,Shàngh?i,??|??,Zhíxiáshì,Municipality,NA,CN.SH,CN-SH,CN.SH,0.943771447218842
+CHN.25_1,CHN,China,Shanxi,Sh?nx?,??,Sh?ng,Province,NA,CN.SX,CN-SX,CN.SX,0.987522384289263
+CHN.26_1,CHN,China,Sichuan,Sìchu?n,??,Sh?ng,Province,NA,CN.SC,CN-SC,CN.SC,0.983263454369547
+CHN.27_1,CHN,China,Tianjin,Ti?nj?n,??|??,Zhíxiáshì,Municipality,NA,CN.TJ,CN-TJ,CN.TJ,0.969420785903931
+CHN.28_1,CHN,China,Xinjiang Uygur,X?nji?ng Wéiwú?r,????????|????????,Zìzhìqu,Autonomous Region,NA,CN.XJ,CN-XJ,CN.XJ,0.994077265012164
+CHN.29_1,CHN,China,Xizang,Tibet|X?zàng,?????|?????,Zìzhìqu,Autonomous Region,NA,CN.XZ,CN-XZ,CN.XZ,0.996096052063836
+CHN.30_1,CHN,China,Yunnan,Yúnnán,??|??,Sh?ng,Province,NA,CN.YN,CN-YN,CN.YN,0.988124021531119
+CHN.31_1,CHN,China,Zhejiang,Zhèji?ng,??,Sh?ng,Province,NA,CN.ZJ,CN-ZJ,CN.ZJ,0.974483213392772
