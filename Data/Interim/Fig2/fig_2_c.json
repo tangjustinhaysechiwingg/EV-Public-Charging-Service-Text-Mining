@@ -1,0 +1,1395 @@
+{
+  "Europe": {
+    "hourly_counts": {
+      "13": {
+        "Positive": 5388,
+        "Neutral": 9163,
+        "Negative": 7351
+      },
+      "8": {
+        "Positive": 2201,
+        "Neutral": 4003,
+        "Negative": 3026
+      },
+      "14": {
+        "Positive": 5309,
+        "Neutral": 9050,
+        "Negative": 7221
+      },
+      "18": {
+        "Positive": 5018,
+        "Neutral": 8331,
+        "Negative": 6447
+      },
+      "19": {
+        "Positive": 4577,
+        "Neutral": 7168,
+        "Negative": 5913
+      },
+      "9": {
+        "Positive": 3006,
+        "Neutral": 5341,
+        "Negative": 4238
+      },
+      "22": {
+        "Positive": 3088,
+        "Neutral": 4540,
+        "Negative": 3359
+      },
+      "10": {
+        "Positive": 3862,
+        "Neutral": 6949,
+        "Negative": 5360
+      },
+      "17": {
+        "Positive": 5343,
+        "Neutral": 8945,
+        "Negative": 7072
+      },
+      "23": {
+        "Positive": 2260,
+        "Neutral": 3208,
+        "Negative": 2556
+      },
+      "0": {
+        "Positive": 1323,
+        "Neutral": 2219,
+        "Negative": 1508
+      },
+      "16": {
+        "Positive": 5249,
+        "Neutral": 9055,
+        "Negative": 7170
+      },
+      "11": {
+        "Positive": 4562,
+        "Neutral": 8334,
+        "Negative": 6492
+      },
+      "1": {
+        "Positive": 634,
+        "Neutral": 1180,
+        "Negative": 744
+      },
+      "20": {
+        "Positive": 3906,
+        "Neutral": 6293,
+        "Negative": 4787
+      },
+      "15": {
+        "Positive": 5424,
+        "Neutral": 8962,
+        "Negative": 7044
+      },
+      "12": {
+        "Positive": 5055,
+        "Neutral": 8947,
+        "Negative": 7001
+      },
+      "21": {
+        "Positive": 3579,
+        "Neutral": 5456,
+        "Negative": 4269
+      },
+      "7": {
+        "Positive": 1251,
+        "Neutral": 2714,
+        "Negative": 1866
+      },
+      "5": {
+        "Positive": 267,
+        "Neutral": 545,
+        "Negative": 355
+      },
+      "6": {
+        "Positive": 579,
+        "Neutral": 1171,
+        "Negative": 837
+      },
+      "4": {
+        "Positive": 203,
+        "Neutral": 384,
+        "Negative": 266
+      },
+      "2": {
+        "Positive": 341,
+        "Neutral": 610,
+        "Negative": 406
+      },
+      "3": {
+        "Positive": 243,
+        "Neutral": 431,
+        "Negative": 274
+      }
+    },
+    "weekly_counts": {
+      "0": {
+        "Positive": 9383,
+        "Neutral": 16037,
+        "Negative": 12286
+      },
+      "5": {
+        "Positive": 13529,
+        "Neutral": 22481,
+        "Negative": 17837
+      },
+      "4": {
+        "Positive": 10354,
+        "Neutral": 17715,
+        "Negative": 13589
+      },
+      "3": {
+        "Positive": 8986,
+        "Neutral": 15755,
+        "Negative": 11958
+      },
+      "2": {
+        "Positive": 8954,
+        "Neutral": 14850,
+        "Negative": 11497
+      },
+      "6": {
+        "Positive": 12836,
+        "Neutral": 20888,
+        "Negative": 17075
+      },
+      "1": {
+        "Positive": 8626,
+        "Neutral": 15273,
+        "Negative": 11320
+      }
+    },
+    "monthly_counts": {
+      "8": {
+        "Positive": 9855,
+        "Neutral": 15023,
+        "Negative": 12132
+      },
+      "1": {
+        "Positive": 4291,
+        "Neutral": 8450,
+        "Negative": 6349
+      },
+      "10": {
+        "Positive": 6161,
+        "Neutral": 10477,
+        "Negative": 8265
+      },
+      "11": {
+        "Positive": 4779,
+        "Neutral": 8782,
+        "Negative": 7434
+      },
+      "6": {
+        "Positive": 6319,
+        "Neutral": 10439,
+        "Negative": 7763
+      },
+      "12": {
+        "Positive": 5690,
+        "Neutral": 10211,
+        "Negative": 8242
+      },
+      "7": {
+        "Positive": 10365,
+        "Neutral": 15816,
+        "Negative": 12155
+      },
+      "9": {
+        "Positive": 6469,
+        "Neutral": 10935,
+        "Negative": 8872
+      },
+      "5": {
+        "Positive": 5243,
+        "Neutral": 9373,
+        "Negative": 6591
+      },
+      "2": {
+        "Positive": 4198,
+        "Neutral": 7423,
+        "Negative": 5703
+      },
+      "3": {
+        "Positive": 4373,
+        "Neutral": 7699,
+        "Negative": 5811
+      },
+      "4": {
+        "Positive": 4925,
+        "Neutral": 8371,
+        "Negative": 6245
+      }
+    },
+    "hourly_percentage": {
+      "13": {
+        "Positive": 24.6,
+        "Neutral": 41.84,
+        "Negative": 33.56
+      },
+      "8": {
+        "Positive": 23.85,
+        "Neutral": 43.37,
+        "Negative": 32.78
+      },
+      "14": {
+        "Positive": 24.6,
+        "Neutral": 41.94,
+        "Negative": 33.46
+      },
+      "18": {
+        "Positive": 25.35,
+        "Neutral": 42.08,
+        "Negative": 32.57
+      },
+      "19": {
+        "Positive": 25.92,
+        "Neutral": 40.59,
+        "Negative": 33.49
+      },
+      "9": {
+        "Positive": 23.89,
+        "Neutral": 42.44,
+        "Negative": 33.68
+      },
+      "22": {
+        "Positive": 28.11,
+        "Neutral": 41.32,
+        "Negative": 30.57
+      },
+      "10": {
+        "Positive": 23.88,
+        "Neutral": 42.97,
+        "Negative": 33.15
+      },
+      "17": {
+        "Positive": 25.01,
+        "Neutral": 41.88,
+        "Negative": 33.11
+      },
+      "23": {
+        "Positive": 28.17,
+        "Neutral": 39.98,
+        "Negative": 31.85
+      },
+      "0": {
+        "Positive": 26.2,
+        "Neutral": 43.94,
+        "Negative": 29.86
+      },
+      "16": {
+        "Positive": 24.44,
+        "Neutral": 42.17,
+        "Negative": 33.39
+      },
+      "11": {
+        "Positive": 23.53,
+        "Neutral": 42.99,
+        "Negative": 33.48
+      },
+      "1": {
+        "Positive": 24.78,
+        "Neutral": 46.13,
+        "Negative": 29.09
+      },
+      "20": {
+        "Positive": 26.06,
+        "Neutral": 41.99,
+        "Negative": 31.94
+      },
+      "15": {
+        "Positive": 25.31,
+        "Neutral": 41.82,
+        "Negative": 32.87
+      },
+      "12": {
+        "Positive": 24.07,
+        "Neutral": 42.6,
+        "Negative": 33.33
+      },
+      "21": {
+        "Positive": 26.9,
+        "Neutral": 41.01,
+        "Negative": 32.09
+      },
+      "7": {
+        "Positive": 21.45,
+        "Neutral": 46.54,
+        "Negative": 32.0
+      },
+      "5": {
+        "Positive": 22.88,
+        "Neutral": 46.7,
+        "Negative": 30.42
+      },
+      "6": {
+        "Positive": 22.38,
+        "Neutral": 45.26,
+        "Negative": 32.35
+      },
+      "4": {
+        "Positive": 23.8,
+        "Neutral": 45.02,
+        "Negative": 31.18
+      },
+      "2": {
+        "Positive": 25.13,
+        "Neutral": 44.95,
+        "Negative": 29.92
+      },
+      "3": {
+        "Positive": 25.63,
+        "Neutral": 45.46,
+        "Negative": 28.9
+      }
+    },
+    "weekly_percentage": {
+      "0": {
+        "Positive": 24.88,
+        "Neutral": 42.53,
+        "Negative": 32.58
+      },
+      "5": {
+        "Positive": 25.12,
+        "Neutral": 41.75,
+        "Negative": 33.13
+      },
+      "4": {
+        "Positive": 24.85,
+        "Neutral": 42.52,
+        "Negative": 32.62
+      },
+      "3": {
+        "Positive": 24.49,
+        "Neutral": 42.93,
+        "Negative": 32.58
+      },
+      "2": {
+        "Positive": 25.36,
+        "Neutral": 42.07,
+        "Negative": 32.57
+      },
+      "6": {
+        "Positive": 25.27,
+        "Neutral": 41.12,
+        "Negative": 33.61
+      },
+      "1": {
+        "Positive": 24.49,
+        "Neutral": 43.37,
+        "Negative": 32.14
+      }
+    },
+    "monthly_percentage": {
+      "8": {
+        "Positive": 26.63,
+        "Neutral": 40.59,
+        "Negative": 32.78
+      },
+      "1": {
+        "Positive": 22.48,
+        "Neutral": 44.26,
+        "Negative": 33.26
+      },
+      "10": {
+        "Positive": 24.74,
+        "Neutral": 42.07,
+        "Negative": 33.19
+      },
+      "11": {
+        "Positive": 22.76,
+        "Neutral": 41.83,
+        "Negative": 35.41
+      },
+      "6": {
+        "Positive": 25.77,
+        "Neutral": 42.57,
+        "Negative": 31.66
+      },
+      "12": {
+        "Positive": 23.57,
+        "Neutral": 42.29,
+        "Negative": 34.14
+      },
+      "7": {
+        "Positive": 27.04,
+        "Neutral": 41.26,
+        "Negative": 31.71
+      },
+      "9": {
+        "Positive": 24.62,
+        "Neutral": 41.62,
+        "Negative": 33.76
+      },
+      "5": {
+        "Positive": 24.72,
+        "Neutral": 44.2,
+        "Negative": 31.08
+      },
+      "2": {
+        "Positive": 24.23,
+        "Neutral": 42.85,
+        "Negative": 32.92
+      },
+      "3": {
+        "Positive": 24.45,
+        "Neutral": 43.05,
+        "Negative": 32.49
+      },
+      "4": {
+        "Positive": 25.2,
+        "Neutral": 42.84,
+        "Negative": 31.96
+      }
+    }
+  },
+  "USA": {
+    "hourly_counts": {
+      "8": {
+        "Positive": 5181,
+        "Neutral": 5207,
+        "Negative": 4190
+      },
+      "22": {
+        "Positive": 8352,
+        "Neutral": 7699,
+        "Negative": 7051
+      },
+      "13": {
+        "Positive": 13168,
+        "Neutral": 13104,
+        "Negative": 11917
+      },
+      "11": {
+        "Positive": 10896,
+        "Neutral": 10571,
+        "Negative": 9476
+      },
+      "12": {
+        "Positive": 12333,
+        "Neutral": 12288,
+        "Negative": 11139
+      },
+      "10": {
+        "Positive": 9105,
+        "Neutral": 9136,
+        "Negative": 7639
+      },
+      "1": {
+        "Positive": 3155,
+        "Neutral": 2921,
+        "Negative": 2855
+      },
+      "15": {
+        "Positive": 13925,
+        "Neutral": 13625,
+        "Negative": 12499
+      },
+      "21": {
+        "Positive": 10032,
+        "Neutral": 8954,
+        "Negative": 8473
+      },
+      "16": {
+        "Positive": 14071,
+        "Neutral": 13296,
+        "Negative": 12398
+      },
+      "14": {
+        "Positive": 13761,
+        "Neutral": 13184,
+        "Negative": 12373
+      },
+      "23": {
+        "Positive": 6691,
+        "Neutral": 6023,
+        "Negative": 5474
+      },
+      "0": {
+        "Positive": 4796,
+        "Neutral": 4432,
+        "Negative": 4109
+      },
+      "9": {
+        "Positive": 7505,
+        "Neutral": 7182,
+        "Negative": 6017
+      },
+      "19": {
+        "Positive": 12038,
+        "Neutral": 11496,
+        "Negative": 11219
+      },
+      "17": {
+        "Positive": 13953,
+        "Neutral": 13131,
+        "Negative": 12545
+      },
+      "20": {
+        "Positive": 11255,
+        "Neutral": 10374,
+        "Negative": 9800
+      },
+      "18": {
+        "Positive": 13376,
+        "Neutral": 12380,
+        "Negative": 12079
+      },
+      "2": {
+        "Positive": 1768,
+        "Neutral": 1759,
+        "Negative": 1727
+      },
+      "6": {
+        "Positive": 1641,
+        "Neutral": 1711,
+        "Negative": 1460
+      },
+      "4": {
+        "Positive": 858,
+        "Neutral": 855,
+        "Negative": 827
+      },
+      "5": {
+        "Positive": 965,
+        "Neutral": 927,
+        "Negative": 862
+      },
+      "7": {
+        "Positive": 3245,
+        "Neutral": 3182,
+        "Negative": 2539
+      },
+      "3": {
+        "Positive": 1242,
+        "Neutral": 1190,
+        "Negative": 1138
+      }
+    },
+    "weekly_counts": {
+      "2": {
+        "Positive": 22862,
+        "Neutral": 22506,
+        "Negative": 20716
+      },
+      "4": {
+        "Positive": 29067,
+        "Neutral": 27455,
+        "Negative": 25151
+      },
+      "1": {
+        "Positive": 22218,
+        "Neutral": 22201,
+        "Negative": 20515
+      },
+      "3": {
+        "Positive": 23874,
+        "Neutral": 23270,
+        "Negative": 21106
+      },
+      "0": {
+        "Positive": 24275,
+        "Neutral": 23306,
+        "Negative": 21267
+      },
+      "6": {
+        "Positive": 33875,
+        "Neutral": 31302,
+        "Negative": 28911
+      },
+      "5": {
+        "Positive": 37141,
+        "Neutral": 34587,
+        "Negative": 32140
+      }
+    },
+    "monthly_counts": {
+      "10": {
+        "Positive": 18679,
+        "Neutral": 17152,
+        "Negative": 16214
+      },
+      "8": {
+        "Positive": 20079,
+        "Neutral": 18495,
+        "Negative": 17605
+      },
+      "11": {
+        "Positive": 17398,
+        "Neutral": 16293,
+        "Negative": 15396
+      },
+      "2": {
+        "Positive": 10287,
+        "Neutral": 10532,
+        "Negative": 9920
+      },
+      "5": {
+        "Positive": 14942,
+        "Neutral": 14335,
+        "Negative": 12432
+      },
+      "1": {
+        "Positive": 10843,
+        "Neutral": 11140,
+        "Negative": 10257
+      },
+      "12": {
+        "Positive": 18844,
+        "Neutral": 18157,
+        "Negative": 17252
+      },
+      "7": {
+        "Positive": 20103,
+        "Neutral": 18380,
+        "Negative": 16979
+      },
+      "3": {
+        "Positive": 13074,
+        "Neutral": 13205,
+        "Negative": 11821
+      },
+      "9": {
+        "Positive": 18134,
+        "Neutral": 17156,
+        "Negative": 15588
+      },
+      "6": {
+        "Positive": 17822,
+        "Neutral": 16537,
+        "Negative": 14803
+      },
+      "4": {
+        "Positive": 13107,
+        "Neutral": 13245,
+        "Negative": 11539
+      }
+    },
+    "hourly_percentage": {
+      "8": {
+        "Positive": 35.54,
+        "Neutral": 35.72,
+        "Negative": 28.74
+      },
+      "22": {
+        "Positive": 36.15,
+        "Neutral": 33.33,
+        "Negative": 30.52
+      },
+      "13": {
+        "Positive": 34.48,
+        "Neutral": 34.31,
+        "Negative": 31.21
+      },
+      "11": {
+        "Positive": 35.21,
+        "Neutral": 34.16,
+        "Negative": 30.62
+      },
+      "12": {
+        "Positive": 34.49,
+        "Neutral": 34.36,
+        "Negative": 31.15
+      },
+      "10": {
+        "Positive": 35.18,
+        "Neutral": 35.3,
+        "Negative": 29.52
+      },
+      "1": {
+        "Positive": 35.33,
+        "Neutral": 32.71,
+        "Negative": 31.97
+      },
+      "15": {
+        "Positive": 34.77,
+        "Neutral": 34.02,
+        "Negative": 31.21
+      },
+      "21": {
+        "Positive": 36.53,
+        "Neutral": 32.61,
+        "Negative": 30.86
+      },
+      "16": {
+        "Positive": 35.39,
+        "Neutral": 33.44,
+        "Negative": 31.18
+      },
+      "14": {
+        "Positive": 35.0,
+        "Neutral": 33.53,
+        "Negative": 31.47
+      },
+      "23": {
+        "Positive": 36.79,
+        "Neutral": 33.12,
+        "Negative": 30.1
+      },
+      "0": {
+        "Positive": 35.96,
+        "Neutral": 33.23,
+        "Negative": 30.81
+      },
+      "9": {
+        "Positive": 36.25,
+        "Neutral": 34.69,
+        "Negative": 29.06
+      },
+      "19": {
+        "Positive": 34.64,
+        "Neutral": 33.08,
+        "Negative": 32.28
+      },
+      "17": {
+        "Positive": 35.21,
+        "Neutral": 33.13,
+        "Negative": 31.66
+      },
+      "20": {
+        "Positive": 35.81,
+        "Neutral": 33.01,
+        "Negative": 31.18
+      },
+      "18": {
+        "Positive": 35.35,
+        "Neutral": 32.72,
+        "Negative": 31.93
+      },
+      "2": {
+        "Positive": 33.65,
+        "Neutral": 33.48,
+        "Negative": 32.87
+      },
+      "6": {
+        "Positive": 34.1,
+        "Neutral": 35.56,
+        "Negative": 30.34
+      },
+      "4": {
+        "Positive": 33.78,
+        "Neutral": 33.66,
+        "Negative": 32.56
+      },
+      "5": {
+        "Positive": 35.04,
+        "Neutral": 33.66,
+        "Negative": 31.3
+      },
+      "7": {
+        "Positive": 36.19,
+        "Neutral": 35.49,
+        "Negative": 28.32
+      },
+      "3": {
+        "Positive": 34.79,
+        "Neutral": 33.33,
+        "Negative": 31.88
+      }
+    },
+    "weekly_percentage": {
+      "2": {
+        "Positive": 34.6,
+        "Neutral": 34.06,
+        "Negative": 31.35
+      },
+      "4": {
+        "Positive": 35.59,
+        "Neutral": 33.62,
+        "Negative": 30.79
+      },
+      "1": {
+        "Positive": 34.22,
+        "Neutral": 34.19,
+        "Negative": 31.59
+      },
+      "3": {
+        "Positive": 34.98,
+        "Neutral": 34.1,
+        "Negative": 30.92
+      },
+      "0": {
+        "Positive": 35.26,
+        "Neutral": 33.85,
+        "Negative": 30.89
+      },
+      "6": {
+        "Positive": 36.0,
+        "Neutral": 33.27,
+        "Negative": 30.73
+      },
+      "5": {
+        "Positive": 35.76,
+        "Neutral": 33.3,
+        "Negative": 30.94
+      }
+    },
+    "monthly_percentage": {
+      "10": {
+        "Positive": 35.89,
+        "Neutral": 32.96,
+        "Negative": 31.15
+      },
+      "8": {
+        "Positive": 35.74,
+        "Neutral": 32.92,
+        "Negative": 31.34
+      },
+      "11": {
+        "Positive": 35.44,
+        "Neutral": 33.19,
+        "Negative": 31.36
+      },
+      "2": {
+        "Positive": 33.47,
+        "Neutral": 34.26,
+        "Negative": 32.27
+      },
+      "5": {
+        "Positive": 35.82,
+        "Neutral": 34.37,
+        "Negative": 29.81
+      },
+      "1": {
+        "Positive": 33.63,
+        "Neutral": 34.55,
+        "Negative": 31.81
+      },
+      "12": {
+        "Positive": 34.73,
+        "Neutral": 33.47,
+        "Negative": 31.8
+      },
+      "7": {
+        "Positive": 36.25,
+        "Neutral": 33.14,
+        "Negative": 30.61
+      },
+      "3": {
+        "Positive": 34.31,
+        "Neutral": 34.66,
+        "Negative": 31.03
+      },
+      "9": {
+        "Positive": 35.64,
+        "Neutral": 33.72,
+        "Negative": 30.64
+      },
+      "6": {
+        "Positive": 36.25,
+        "Neutral": 33.64,
+        "Negative": 30.11
+      },
+      "4": {
+        "Positive": 34.59,
+        "Neutral": 34.96,
+        "Negative": 30.45
+      }
+    }
+  },
+  "China": {
+    "hourly_counts": {
+      "14": {
+        "Positive": 2490,
+        "Neutral": 2210,
+        "Negative": 2309
+      },
+      "21": {
+        "Positive": 2170,
+        "Neutral": 1898,
+        "Negative": 2131
+      },
+      "0": {
+        "Positive": 1206,
+        "Neutral": 1273,
+        "Negative": 1932
+      },
+      "17": {
+        "Positive": 2462,
+        "Neutral": 2333,
+        "Negative": 2222
+      },
+      "10": {
+        "Positive": 2380,
+        "Neutral": 2095,
+        "Negative": 1748
+      },
+      "1": {
+        "Positive": 552,
+        "Neutral": 580,
+        "Negative": 1004
+      },
+      "19": {
+        "Positive": 1882,
+        "Neutral": 1941,
+        "Negative": 2211
+      },
+      "8": {
+        "Positive": 2007,
+        "Neutral": 1544,
+        "Negative": 1342
+      },
+      "20": {
+        "Positive": 1923,
+        "Neutral": 1922,
+        "Negative": 2174
+      },
+      "2": {
+        "Positive": 309,
+        "Neutral": 328,
+        "Negative": 565
+      },
+      "18": {
+        "Positive": 1917,
+        "Neutral": 2109,
+        "Negative": 2061
+      },
+      "15": {
+        "Positive": 2631,
+        "Neutral": 2384,
+        "Negative": 2377
+      },
+      "12": {
+        "Positive": 2157,
+        "Neutral": 2350,
+        "Negative": 2715
+      },
+      "23": {
+        "Positive": 1562,
+        "Neutral": 1584,
+        "Negative": 2140
+      },
+      "22": {
+        "Positive": 1959,
+        "Neutral": 1784,
+        "Negative": 2089
+      },
+      "13": {
+        "Positive": 2263,
+        "Neutral": 2257,
+        "Negative": 2690
+      },
+      "9": {
+        "Positive": 2158,
+        "Neutral": 1791,
+        "Negative": 1584
+      },
+      "7": {
+        "Positive": 1762,
+        "Neutral": 1244,
+        "Negative": 1267
+      },
+      "16": {
+        "Positive": 2637,
+        "Neutral": 2310,
+        "Negative": 2317
+      },
+      "3": {
+        "Positive": 205,
+        "Neutral": 259,
+        "Negative": 409
+      },
+      "11": {
+        "Positive": 2371,
+        "Neutral": 2233,
+        "Negative": 2202
+      },
+      "5": {
+        "Positive": 333,
+        "Neutral": 389,
+        "Negative": 512
+      },
+      "6": {
+        "Positive": 772,
+        "Neutral": 773,
+        "Negative": 991
+      },
+      "4": {
+        "Positive": 194,
+        "Neutral": 229,
+        "Negative": 366
+      }
+    },
+    "weekly_counts": {
+      "4": {
+        "Positive": 7420,
+        "Neutral": 6135,
+        "Negative": 8230
+      },
+      "2": {
+        "Positive": 7520,
+        "Neutral": 5878,
+        "Negative": 7864
+      },
+      "1": {
+        "Positive": 7627,
+        "Neutral": 5969,
+        "Negative": 8022
+      },
+      "5": {
+        "Positive": 7393,
+        "Neutral": 6569,
+        "Negative": 9518
+      },
+      "3": {
+        "Positive": 7418,
+        "Neutral": 5982,
+        "Negative": 7952
+      },
+      "6": {
+        "Positive": 7144,
+        "Neutral": 6509,
+        "Negative": 9312
+      },
+      "0": {
+        "Positive": 7395,
+        "Neutral": 6008,
+        "Negative": 8009
+      }
+    },
+    "monthly_counts": {
+      "11": {
+        "Positive": 4472,
+        "Neutral": 3358,
+        "Negative": 4740
+      },
+      "10": {
+        "Positive": 5020,
+        "Neutral": 4223,
+        "Negative": 5920
+      },
+      "8": {
+        "Positive": 5783,
+        "Neutral": 4887,
+        "Negative": 7415
+      },
+      "12": {
+        "Positive": 4500,
+        "Neutral": 3792,
+        "Negative": 5223
+      },
+      "6": {
+        "Positive": 3861,
+        "Neutral": 3581,
+        "Negative": 4613
+      },
+      "3": {
+        "Positive": 3264,
+        "Neutral": 2556,
+        "Negative": 3488
+      },
+      "7": {
+        "Positive": 4630,
+        "Neutral": 4343,
+        "Negative": 6328
+      },
+      "5": {
+        "Positive": 3967,
+        "Neutral": 3487,
+        "Negative": 4217
+      },
+      "9": {
+        "Positive": 5456,
+        "Neutral": 4342,
+        "Negative": 5336
+      },
+      "4": {
+        "Positive": 3715,
+        "Neutral": 2786,
+        "Negative": 3689
+      },
+      "1": {
+        "Positive": 3879,
+        "Neutral": 2864,
+        "Negative": 4043
+      },
+      "2": {
+        "Positive": 3370,
+        "Neutral": 2831,
+        "Negative": 3895
+      }
+    },
+    "hourly_percentage": {
+      "14": {
+        "Positive": 35.53,
+        "Neutral": 31.53,
+        "Negative": 32.94
+      },
+      "21": {
+        "Positive": 35.01,
+        "Neutral": 30.62,
+        "Negative": 34.38
+      },
+      "0": {
+        "Positive": 27.34,
+        "Neutral": 28.86,
+        "Negative": 43.8
+      },
+      "17": {
+        "Positive": 35.09,
+        "Neutral": 33.25,
+        "Negative": 31.67
+      },
+      "10": {
+        "Positive": 38.25,
+        "Neutral": 33.67,
+        "Negative": 28.09
+      },
+      "1": {
+        "Positive": 25.84,
+        "Neutral": 27.15,
+        "Negative": 47.0
+      },
+      "19": {
+        "Positive": 31.19,
+        "Neutral": 32.17,
+        "Negative": 36.64
+      },
+      "8": {
+        "Positive": 41.02,
+        "Neutral": 31.56,
+        "Negative": 27.43
+      },
+      "20": {
+        "Positive": 31.95,
+        "Neutral": 31.93,
+        "Negative": 36.12
+      },
+      "2": {
+        "Positive": 25.71,
+        "Neutral": 27.29,
+        "Negative": 47.0
+      },
+      "18": {
+        "Positive": 31.49,
+        "Neutral": 34.65,
+        "Negative": 33.86
+      },
+      "15": {
+        "Positive": 35.59,
+        "Neutral": 32.25,
+        "Negative": 32.16
+      },
+      "12": {
+        "Positive": 29.87,
+        "Neutral": 32.54,
+        "Negative": 37.59
+      },
+      "23": {
+        "Positive": 29.55,
+        "Neutral": 29.97,
+        "Negative": 40.48
+      },
+      "22": {
+        "Positive": 33.59,
+        "Neutral": 30.59,
+        "Negative": 35.82
+      },
+      "13": {
+        "Positive": 31.39,
+        "Neutral": 31.3,
+        "Negative": 37.31
+      },
+      "9": {
+        "Positive": 39.0,
+        "Neutral": 32.37,
+        "Negative": 28.63
+      },
+      "7": {
+        "Positive": 41.24,
+        "Neutral": 29.11,
+        "Negative": 29.65
+      },
+      "16": {
+        "Positive": 36.3,
+        "Neutral": 31.8,
+        "Negative": 31.9
+      },
+      "3": {
+        "Positive": 23.48,
+        "Neutral": 29.67,
+        "Negative": 46.85
+      },
+      "11": {
+        "Positive": 34.84,
+        "Neutral": 32.81,
+        "Negative": 32.35
+      },
+      "5": {
+        "Positive": 26.99,
+        "Neutral": 31.52,
+        "Negative": 41.49
+      },
+      "6": {
+        "Positive": 30.44,
+        "Neutral": 30.48,
+        "Negative": 39.08
+      },
+      "4": {
+        "Positive": 24.59,
+        "Neutral": 29.02,
+        "Negative": 46.39
+      }
+    },
+    "weekly_percentage": {
+      "4": {
+        "Positive": 34.06,
+        "Neutral": 28.16,
+        "Negative": 37.78
+      },
+      "2": {
+        "Positive": 35.37,
+        "Neutral": 27.65,
+        "Negative": 36.99
+      },
+      "1": {
+        "Positive": 35.28,
+        "Neutral": 27.61,
+        "Negative": 37.11
+      },
+      "5": {
+        "Positive": 31.49,
+        "Neutral": 27.98,
+        "Negative": 40.54
+      },
+      "3": {
+        "Positive": 34.74,
+        "Neutral": 28.02,
+        "Negative": 37.24
+      },
+      "6": {
+        "Positive": 31.11,
+        "Neutral": 28.34,
+        "Negative": 40.55
+      },
+      "0": {
+        "Positive": 34.54,
+        "Neutral": 28.06,
+        "Negative": 37.4
+      }
+    },
+    "monthly_percentage": {
+      "11": {
+        "Positive": 35.58,
+        "Neutral": 26.71,
+        "Negative": 37.71
+      },
+      "10": {
+        "Positive": 33.11,
+        "Neutral": 27.85,
+        "Negative": 39.04
+      },
+      "8": {
+        "Positive": 31.98,
+        "Neutral": 27.02,
+        "Negative": 41.0
+      },
+      "12": {
+        "Positive": 33.3,
+        "Neutral": 28.06,
+        "Negative": 38.65
+      },
+      "6": {
+        "Positive": 32.03,
+        "Neutral": 29.71,
+        "Negative": 38.27
+      },
+      "3": {
+        "Positive": 35.07,
+        "Neutral": 27.46,
+        "Negative": 37.47
+      },
+      "7": {
+        "Positive": 30.26,
+        "Neutral": 28.38,
+        "Negative": 41.36
+      },
+      "5": {
+        "Positive": 33.99,
+        "Neutral": 29.88,
+        "Negative": 36.13
+      },
+      "9": {
+        "Positive": 36.05,
+        "Neutral": 28.69,
+        "Negative": 35.26
+      },
+      "4": {
+        "Positive": 36.46,
+        "Neutral": 27.34,
+        "Negative": 36.2
+      },
+      "1": {
+        "Positive": 35.96,
+        "Neutral": 26.55,
+        "Negative": 37.48
+      },
+      "2": {
+        "Positive": 33.38,
+        "Neutral": 28.04,
+        "Negative": 38.58
+      }
+    }
+  },
+  "metadata": {
+    "time_range": "2015-2024",
+    "timezones": {
+      "Europe": "Europe/Berlin",
+      "USA": "America/New_York",
+      "China": "Asia/Shanghai"
+    },
+    "weekly_mapping": {
+      "0": "Mon",
+      "1": "Tue",
+      "2": "Wed",
+      "3": "Thu",
+      "4": "Fri",
+      "5": "Sat",
+      "6": "Sun"
+    },
+    "monthly_mapping": {
+      "1": "Jan",
+      "2": "Feb",
+      "3": "Mar",
+      "4": "Apr",
+      "5": "May",
+      "6": "Jun",
+      "7": "Jul",
+      "8": "Aug",
+      "9": "Sep",
+      "10": "Oct",
+      "11": "Nov",
+      "12": "Dec"
+    },
+    "hourly_mapping": {
+      "0": "0:00",
+      "1": "1:00",
+      "2": "2:00",
+      "3": "3:00",
+      "4": "4:00",
+      "5": "5:00",
+      "6": "6:00",
+      "7": "7:00",
+      "8": "8:00",
+      "9": "9:00",
+      "10": "10:00",
+      "11": "11:00",
+      "12": "12:00",
+      "13": "13:00",
+      "14": "14:00",
+      "15": "15:00",
+      "16": "16:00",
+      "17": "17:00",
+      "18": "18:00",
+      "19": "19:00",
+      "20": "20:00",
+      "21": "21:00",
+      "22": "22:00",
+      "23": "23:00"
+    },
+    "parse_method": {
+      "hourly": "Strict single format parsing",
+      "weekly_monthly": "Flexible multi-format parsing"
+    }
+  }
+}
