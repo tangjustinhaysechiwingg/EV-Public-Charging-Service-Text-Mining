@@ -1,0 +1,35 @@
+﻿GID_1,GID_0,COUNTRY,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,HASC_2,ISO_1,Num_review
+CHN.1_1,CHN,China,Anhui,Ānhuī,安徽|安徽,Shěng,Province,NA,CN.AH,CN.AH,CN-AH,4276
+CHN.2_1,CHN,China,Beijing,Běijīng,北京|北京,Zhíxiáshì,Municipality,NA,CN.BJ,CN.BJ,CN-BJ,4417
+CHN.3_1,CHN,China,Chongqing,Chóngqìng,重慶|重庆,Zhíxiáshì,Municipality,NA,CN.CQ,CN.CQ,CN-CQ,7054
+CHN.4_1,CHN,China,Fujian,Fújiàn,福建,Shěng,Province,NA,CN.FJ,CN.FJ,CN-FJ,3870
+CHN.5_1,CHN,China,Gansu,Gānsù,甘肅|甘肃,Shěng,Province,NA,CN.GS,CN.GS,CN-GS,1152
+CHN.6_1,CHN,China,Guangdong,Guǎngdōng,廣東|广东,Shěng,Province,NA,CN.GD,CN.GD,CN-GD,29342
+CHN.7_1,CHN,China,Guangxi,Guǎngxī Zhuàngzú,廣西壯族自治區|广西壮族自治区,Zìzhìqu,Autonomous Region,NA,CN.GX,CN.GX,NA,5851
+CHN.8_1,CHN,China,Guizhou,Gùizhōu,貴州|贵州,Shěng,Province,NA,CN.GZ,CN.GZ,CN-GZ,2391
+CHN.9_1,CHN,China,Hainan,Hǎinán,海南,Shěng,Province,NA,CN.HA,CN.HA,CN-HI,1857
+CHN.10_1,CHN,China,Hebei,Héběi,河北,Shěng,Province,NA,CN.HB,CN.HB,CN-HE,5356
+CHN.11_1,CHN,China,Heilongjiang,Hēilóngjiāng,黑龙江省|黑龍江省,Shěng,Province,NA,CN.HL,CN.HL,CN-HL,1056
+CHN.12_1,CHN,China,Henan,Hénán,河南,Shěng,Province,NA,CN.HE,CN.HE,CN-HA,12378
+CHN.HKG,CHN,China,Hong Kong,NA,NA,Special Administrative Region,Special Administrative Region,NA,HK,HK,NA,4
+CHN.13_1,CHN,China,Hubei,Húběi,湖北,Shěng,Province,NA,CN.HU,CN.HU,CN-HB,4363
+CHN.14_1,CHN,China,Hunan,Húnán,湖南,Shěng,Province,NA,CN.HN,CN.HN,CN-HN,4693
+CHN.15_1,CHN,China,Jiangsu,Jiāngsū,江蘇|江苏,Shěng,Province,NA,CN.JS,CN.JS,CN-JS,9358
+CHN.16_1,CHN,China,Jiangxi,Jiāngxī,江西,Shěng,Province,NA,CN.JX,CN.JX,CN-JX,3032
+CHN.17_1,CHN,China,Jilin,Jílín,吉林,Shěng,Province,NA,CN.JL,CN.JL,CN-JL,1344
+CHN.18_1,CHN,China,Liaoning,Liáoníng,遼寧|辽宁,Shěng,Province,NA,CN.LN,CN.LN,CN-LN,2927
+CHN.MAC,CHN,China,Macau,NA,NA,Special Administrative Region,Special Administrative Region,NA,MO,MO,NA,0
+CHN.19_1,CHN,China,Nei Mongol,Inner Mongol|Nèiměnggǔ,內蒙古自治區|内蒙古自治区,Zìzhìqu,Autonomous Region,NA,CN.NM,CN.NM,CN-NM,1212
+CHN.20_1,CHN,China,Ningxia Hui,Níngxià Húizú,寧夏回族自治區|宁夏回族自治区,Zìzhìqu,Autonomous Region,NA,CN.NX,CN.NX,NA,349
+CHN.21_1,CHN,China,Qinghai,Qīnghǎi,青海,Shěng,Province,NA,CN.QH,CN.QH,CN-QH,393
+CHN.22_1,CHN,China,Shaanxi,Shǎnxī,陝西|陕西,Shěng,Province,NA,CN.SA,CN.SA,CN-SN,4518
+CHN.23_1,CHN,China,Shandong,Shāndōng,山東|山东,Shěng,Province,NA,CN.SD,CN.SD,CN-SD,10339
+CHN.24_1,CHN,China,Shanghai,Shànghǎi,上海|上海,Zhíxiáshì,Municipality,NA,CN.SH,CN.SH,CN-SH,3787
+CHN.25_1,CHN,China,Shanxi,Shānxī,山西,Shěng,Province,NA,CN.SX,CN.SX,CN-SX,2246
+CHN.26_1,CHN,China,Sichuan,Sìchuān,四川,Shěng,Province,NA,CN.SC,CN.SC,CN-SC,9660
+CHN.27_1,CHN,China,Tianjin,Tiānjīn,天津|天津,Zhíxiáshì,Municipality,NA,CN.TJ,CN.TJ,CN-TJ,1996
+CHN.28_1,CHN,China,Xinjiang Uygur,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,NA,CN.XJ,CN.XJ,CN-XJ,1171
+CHN.29_1,CHN,China,Xizang,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,NA,CN.XZ,CN.XZ,CN-XZ,240
+CHN.30_1,CHN,China,Yunnan,Yúnnán,雲南|云南,Shěng,Province,NA,CN.YN,CN.YN,CN-YN,3281
+CHN.31_1,CHN,China,Zhejiang,Zhèjiāng,浙江,Shěng,Province,NA,CN.ZJ,CN.ZJ,CN-ZJ,9477
+CHN.32_1,CHN,China,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,CN.TW,CN.TW,CN.TW,0
