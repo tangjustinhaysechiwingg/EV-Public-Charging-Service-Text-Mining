@@ -1,0 +1,60 @@
+{
+  "comment_list": [
+    {
+      "content": "FREE. 2 chargers near entrance of park. Thank you for filling up. ",
+      "date": "2024-10-23T12:11:24Z",
+      "uid": 630369,
+      "longitude": "-78.664351",
+      "latitude": "42.886682",
+      "sentiment": {
+        "Charging Functionality and Reliability": "null",
+        "Charging Performance": "null",
+        "Location and Availability": "Neutral",
+        "Pricing and Payment": "null",
+        "Environment and Service Experience": "null",
+        "Overall sentiment": "Neutral"
+      },
+      "keywords": [
+        "free",
+        "chargers",
+        "entr"
+      ]
+    },
+    {
+      "content": "used several times, works perfectly ",
+      "date": "2024-08-16T12:11:07Z",
+      "uid": 630369,
+      "longitude": "-78.664351",
+      "latitude": "42.886682",
+      "sentiment": {
+        "Charging Functionality and Reliability": "Positive",
+        "Charging Performance": "null",
+        "Location and Availability": "null",
+        "Pricing and Payment": "null",
+        "Environment and Service Experience": "null",
+        "Overall sentiment": "Positive"
+      },
+      "keywords": [
+        "works perfectly"
+      ]
+    },
+    {
+      "content": "parking is not free, starts at $15 for up to 3 hours and goes up from there",
+      "date": "2022-11-30T03:50:08Z",
+      "uid": 4742,
+      "longitude": "-97.754327",
+      "latitude": "30.268106",
+      "sentiment": {
+        "Charging Functionality and Reliability": "null",
+        "Charging Performance": "null",
+        "Location and Availability": "null",
+        "Pricing and Payment": "Positive",
+        "Environment and Service Experience": "null",
+        "Overall sentiment": "Positive"
+      },
+      "keywords": [
+        "parking fee"
+      ]
+    }
+    ]
+}
