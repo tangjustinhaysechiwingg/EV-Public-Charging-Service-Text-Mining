@@ -1,0 +1,52 @@
+﻿GID_1,GID_0,COUNTRY,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,ISO_1,region,gini
+USA.1_1,USA,United States,Alabama,AL|Ala.,NA,State,State,NA,US.AL,US-AL,US.AL,0.996046934709993
+USA.2_1,USA,United States,Alaska,AK|Alaska,NA,State,State,NA,US.AK,US-AK,US.AK,0.996654357422482
+USA.3_1,USA,United States,Arizona,AZ|Ariz.,NA,State,State,NA,US.AZ,US-AZ,US.AZ,0.991561506191889
+USA.4_1,USA,United States,Arkansas,AR|Ark.,NA,State,State,NA,US.AR,US-AR,US.AR,0.994771313667297
+USA.5_1,USA,United States,California,CA|Calif.,NA,State,State,NA,US.CA,US-CA,US.CA,0.979776401558837
+USA.6_1,USA,United States,Colorado,CO|Colo.,NA,State,State,NA,US.CO,US-CO,US.CO,0.984241031974122
+USA.7_1,USA,United States,Connecticut,CT|Conn.,NA,State,State,NA,US.CT,US-CT,US.CT,0.983470026523836
+USA.8_1,USA,United States,Delaware,DE|Del.,NA,State,State,NA,US.DE,US-DE,US.DE,0.988125291135576
+USA.9_1,USA,United States,District of Columbia,DC|D.C.,NA,Federal District,Federal District,NA,US.DC,US-DC,US.DC,0.952423878880434
+USA.10_1,USA,United States,Florida,FL|Fla.,NA,State,State,NA,US.FL,US-FL,US.FL,0.990493123243886
+USA.11_1,USA,United States,Georgia,GA|Ga.,NA,State,State,NA,US.GA,US-GA,US.GA,0.991646633134874
+USA.12_1,USA,United States,Hawaii,HI|Hawaii,NA,State,State,NA,US.HI,US-HI,US.HI,0.990265258522921
+USA.13_1,USA,United States,Idaho,ID|Idaho,NA,State,State,NA,US.ID,US-ID,US.ID,0.99376519776807
+USA.14_1,USA,United States,Illinois,IL|Ill.,NA,State,State,NA,US.IL,US-IL,US.IL,0.990149510354133
+USA.15_1,USA,United States,Indiana,IN|Ind.,NA,State,State,NA,US.IN,US-IN,US.IN,0.992643364014164
+USA.16_1,USA,United States,Iowa,IA|Iowa,NA,State,State,NA,US.IA,US-IA,US.IA,0.989121109098937
+USA.17_1,USA,United States,Kansas,KS|Kans.,NA,State,State,NA,US.KS,US-KS,US.KS,0.992002569279581
+USA.18_1,USA,United States,Kentucky,Commonwealth of Kentucky|KY,NA,State,State,NA,US.KY,US-KY,US.KY,0.995278657540767
+USA.19_1,USA,United States,Louisiana,LA,NA,State,State,NA,US.LA,US-LA,US.LA,0.995196787395863
+USA.20_1,USA,United States,Maine,ME|Maine,NA,State,State,NA,US.ME,US-ME,US.ME,0.988228571552762
+USA.21_1,USA,United States,Maryland,MD,NA,State,State,NA,US.MD,US-MD,US.MD,0.980786723503168
+USA.22_1,USA,United States,Massachusetts,Commonwealth of Massachusetts|MA,NA,State,State,NA,US.MA,US-MA,US.MA,0.978242987406988
+USA.23_1,USA,United States,Michigan,MI|Mich.,NA,State,State,NA,US.MI,US-MI,US.MI,0.991950736920483
+USA.24_1,USA,United States,Minnesota,MN|Minn.,NA,State,State,NA,US.MN,US-MN,US.MN,0.988591015642229
+USA.25_1,USA,United States,Mississippi,MS|Miss.,NA,State,State,NA,US.MS,US-MS,US.MS,0.997425755368003
+USA.26_1,USA,United States,Missouri,MO,NA,State,State,NA,US.MO,US-MO,US.MO,0.992402439692925
+USA.27_1,USA,United States,Montana,MT|Mont.,NA,State,State,NA,US.MT,US-MT,US.MT,0.989923948591406
+USA.28_1,USA,United States,Nebraska,NE|Nebr.,NA,State,State,NA,US.NE,US-NE,US.NE,0.991010640747845
+USA.29_1,USA,United States,Nevada,NV|Nev.,NA,State,State,NA,US.NV,US-NV,US.NV,0.990719651092183
+USA.30_1,USA,United States,New Hampshire,NH|N.H.,NA,State,State,NA,US.NH,US-NH,US.NH,0.994553146844215
+USA.31_1,USA,United States,New Jersey,NJ|N.J.,NA,State,State,NA,US.NJ,US-NJ,US.NJ,0.987082463209746
+USA.32_1,USA,United States,New Mexico,NM|N.M.,NA,State,State,NA,US.NM,US-NM,US.NM,0.989144458726871
+USA.33_1,USA,United States,New York,NY|N.Y.,NA,State,State,NA,US.NY,US-NY,US.NY,0.986688229205997
+USA.34_1,USA,United States,North Carolina,NC|N.C.,NA,State,State,NA,US.NC,US-NC,US.NC,0.991656475722996
+USA.35_1,USA,United States,North Dakota,ND|N.D.,NA,State,State,NA,US.ND,US-ND,US.ND,0.992616183445102
+USA.36_1,USA,United States,Ohio,OH|Ohio,NA,State,State,NA,US.OH,US-OH,US.OH,0.989067351262186
+USA.37_1,USA,United States,Oklahoma,OK|Okla.,NA,State,State,NA,US.OK,US-OK,US.OK,0.995345831626937
+USA.38_1,USA,United States,Oregon,OR|Ore.,NA,State,State,NA,US.OR,US-OR,US.OR,0.978605039866574
+USA.39_1,USA,United States,Pennsylvania,Commonwealth of Pennsylvania|PA,NA,State,State,NA,US.PA,US-PA,US.PA,0.990500370956308
+USA.40_1,USA,United States,Rhode Island,State of Rhode Island and Provid,NA,State,State,NA,US.RI,US-RI,US.RI,0.982070603914428
+USA.41_1,USA,United States,South Carolina,SC|S.C.,NA,State,State,NA,US.SC,US-SC,US.SC,0.995476913058533
+USA.42_1,USA,United States,South Dakota,SD|S.D.,NA,State,State,NA,US.SD,US-SD,US.SD,0.994003701210022
+USA.43_1,USA,United States,Tennessee,TN|Tenn.,NA,State,State,NA,US.TN,US-TN,US.TN,0.994689922122394
+USA.44_1,USA,United States,Texas,TX|Tex.,NA,State,State,NA,US.TX,US-TX,US.TX,0.994027668141328
+USA.45_1,USA,United States,Utah,UT,NA,State,State,NA,US.UT,US-UT,US.UT,0.983341733979828
+USA.46_1,USA,United States,Vermont,VT,NA,State,State,NA,US.VT,US-VT,US.VT,0.977165025196328
+USA.47_1,USA,United States,Virginia,VA,NA,State,State,NA,US.VA,US-VA,US.VA,0.992509929971261
+USA.48_1,USA,United States,Washington,WA|Wash.,NA,State,State,NA,US.WA,US-WA,US.WA,0.982283412287496
+USA.49_1,USA,United States,West Virginia,WV|W.Va.,NA,State,State,NA,US.WV,US-WV,US.WV,0.996358566187523
+USA.50_1,USA,United States,Wisconsin,WI|Wis.,NA,State,State,NA,US.WI,US-WI,US.WI,0.993528573643283
+USA.51_1,USA,United States,Wyoming,WY|Wyo.,NA,State,State,NA,US.WY,US-WY,US.WY,0.987800714422445
