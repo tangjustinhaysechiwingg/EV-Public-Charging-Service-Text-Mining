@@ -5,7 +5,7 @@ This repository contains the Python code, the sample electric vehicle (EV) charg
 ---
 
 ## 📧 Contact  
-For questions, collaborations, or further inquiries, please reach out to Dr. Chengxiang Zhuge:  
+For questions, collaborations, or further inquiries, please reach out to Dr. Chengxiang Zhuge (Tony):  
 ✉️ [chengxiang.zhuge@polyu.edu.hk] | 🌐 [https://thetipteam.wixstudio.com/website]  
 
 ---
