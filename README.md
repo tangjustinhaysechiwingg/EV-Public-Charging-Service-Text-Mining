@@ -1,5 +1,5 @@
 # Mapping globally public charging service satisfaction trajectories of electric vehicle users 
-This repository contains the Python code, the sample electric vehicle (EV) public charging review data, and relevant data for the manuscript titled "**_Mapping globally public charging service satisfaction trajectories of electric vehicle users_**".
+This repository contains the Python code, the sample electric vehicle (EV) public charging review data, and relevant data used for the manuscript titled "**_Mapping globally public charging service satisfaction trajectories of electric vehicle users_**".
 
 
 ---
