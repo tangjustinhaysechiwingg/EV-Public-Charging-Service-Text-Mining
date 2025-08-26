@@ -77,13 +77,13 @@ Typically, the installation should be prompt (around _10-20 min_ from a "_clean_
    > 
    > ```
    > - Code
-      > - Analysis
-      > - Data colection
-      > - Figure plotting       
+      >> - Analysis
+      >> - Data colection
+      >> - Figure plotting       
    > - Data
-      > - Figure_plots
-      > - Input
-      > - Interim
+      >> - Figure_plots
+      >> - Input
+      >> - Interim
 
 
 3. Run
