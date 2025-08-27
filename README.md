@@ -61,7 +61,6 @@ Typically, the installation should be prompt (around _10-20 min_ from a "_clean_
      ```
      conda create --name <input_your_environment_name> python=3.9.21     #Bertopic
      conda create --name <input_your_environment_name> python=3.12.3     #Others
-
      ```
   2. Activate the new environment 
      ```
