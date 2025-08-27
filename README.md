@@ -5,12 +5,13 @@ This research applies text mining, sentiment topic modelling methodologies to ex
 
 # Requirements and Installation
 The whole analysis-related codes should run with a **Python** environment, regardless of operating systems theoretically. 
-We successfully executed all the codes in Windows (Win10) machines
+We successfully executed all the codes in Windows (Win10) machines.
 
 More detailed info is as below:
 
 ## Prerequisites 
 It is highly recommended to install and use the following versions of python/packages to run the codes:
+
 Bertopic:
 - ``python``: 3.9.21
 - ``jieba``: 0.42.1
@@ -48,7 +49,7 @@ Others:
 ## Installation
 It is highly recommended to download [AnaConda](https://www.anaconda.com) to create/manage Python environments.
 You can create a new Python environment and install required aforementioned packages via both the GUI or Command Line.
-Typically, the installation should be prompt (around _10-20 min_ from a "_clean_" machine to "_ready-to-use_" machine, but highly dependent on the Internet speed)
+Typically, the installation should be prompt (around _10-20 min_ from a "_clean_" machine to "_ready-to-use_" machine, but highly dependent on the Internet speed).
 - via **Anaconda GUI**
   1. Open the Anaconda
   2. Find and click "_Environments_" at the left sidebar
