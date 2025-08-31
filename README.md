@@ -7,7 +7,7 @@ This research applies text mining, sentiment topic modelling methodologies to ex
 The whole analysis-related codes should run with a **Python** environment, regardless of operating systems theoretically. 
 We successfully executed all the codes in Windows (Win10) machines.
 
-More detailed info is as below:
+More detailed info is shown as follows:
 
 ## Prerequisites 
 It is highly recommended to install and use the following versions of python/packages to run the codes:
